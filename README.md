@@ -1,3 +1,8 @@
+# Projeto utilisando a API POKEapi para fazer consultas de pokemon, para acessar o projeto use o link: https://pokedex-next-js-exsx-ji30bw525-mayconsubrim.vercel.app/ e para baixar e rodar na sua maquina siga os passos adiante:
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
